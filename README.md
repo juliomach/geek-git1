@@ -49,5 +49,6 @@ Histórico do mais recente para o mais antigo.
 ## Meta
 
 Nome do Criador do Projeto - [@Seu Twitter](https://twitter.com/seuTwitter) - seuemail@gmail.com
+
 Distribuído sob a licença.  Veja `LICENÇA` para mais informações.
 [Link para o Projeto](https://github.com/seuprojeto)
